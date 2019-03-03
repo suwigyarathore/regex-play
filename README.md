@@ -1,6 +1,6 @@
 # regex-play
 
-This repo as a result of my explorations with Regular expressions.
+This repo is a result of my explorations with Regular expressions.
 
 ## Screen Shot
 
